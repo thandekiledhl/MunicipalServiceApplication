@@ -1,0 +1,96 @@
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe.config
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.pdb
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\App.g.cs
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.cache
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.lref
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.g.resources
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.Properties.Resources.resources
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.exe
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.pdb
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.g.cs
+C:\Users\User\source\repos\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.baml
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.AssemblyReference.cache
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.g.cs
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.g.cs
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.g.cs
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\App.g.cs
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.cache
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.lref
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.exe
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.pdb
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe.config
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.pdb
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.baml
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.baml
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.baml
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.g.resources
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.Properties.Resources.resources
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.GenerateResource.cache
+C:\Users\CAPACITI-JHB\Desktop\Thandekile Dhlamini\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.CoreCompileInputs.cache
+D:\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe.config
+D:\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe
+D:\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.pdb
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.AssemblyReference.cache
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.g.cs
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.g.cs
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.g.cs
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\App.g.cs
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.cache
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.lref
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.baml
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.baml
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.baml
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.g.resources
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.Properties.Resources.resources
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.GenerateResource.cache
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.CoreCompileInputs.cache
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.exe
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.pdb
+D:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe.config
+E:\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe
+E:\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.pdb
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.AssemblyReference.cache
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.g.cs
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.g.cs
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.g.cs
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\App.g.cs
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.cache
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.lref
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.baml
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.baml
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.baml
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.g.resources
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.Properties.Resources.resources
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.GenerateResource.cache
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.CoreCompileInputs.cache
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.exe
+E:\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.pdb
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe.config
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.exe
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\bin\Debug\MunicipalServiceApplication.pdb
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.AssemblyReference.cache
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.g.cs
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.g.cs
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\App.g.cs
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.cache
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication_MarkupCompile.lref
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\Local.baml
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MainWindow.baml
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\ReportIssues.baml
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.g.resources
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.Properties.Resources.resources
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.GenerateResource.cache
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.exe
+C:\Users\Capaciti\Documents\Thandekile\MunicipalServiceApplication\MunicipalServiceApplication\obj\Debug\MunicipalServiceApplication.pdb
